@@ -4,7 +4,7 @@ my arch linux (old) configuration
 
 (thanks at Ax-Shell main for the bar on top https://github.com/Axenide/Ax-Shell ) 
 
-
+Before
 ![2025-06-08-181608_hypr_screenshot](https://github.com/user-attachments/assets/24725755-94ff-4a9d-8051-178204dc74bf)
 
 
